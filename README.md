@@ -40,7 +40,7 @@ Se utiliza la métrica ROUGE (Recall-Oriented Understudy for Gisting Evaluation)
 Este proyecto demuestra cómo se pueden utilizar técnicas de aprendizaje automático y procesamiento del lenguaje natural para generar resúmenes automáticos de noticias.
 
 ## **Referencias**
-Datasets: 
+### **Datasets:** 
 * BBC News https://www.kaggle.com/datasets/hgultekin/bbcnewsarchive https://www.kaggle.com/datasets/pariza/bbc-news-summary 
 * English News https://www.kaggle.com/datasets/qusaybtoush1990/english-news
 
