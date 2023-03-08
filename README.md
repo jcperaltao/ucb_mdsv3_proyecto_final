@@ -47,7 +47,7 @@ Este proyecto demuestra cómo se pueden utilizar técnicas de aprendizaje autom�
 Se agradece a los autores de ambos datasets y a la plataforma Kaggle por poner a disposición estos recursos para la comunidad.
 
 ## **Autor**
-Este proyecto fue realizado por Juan Carlos Peralta Olivera como proyecto final de la materia de *MACHINE LEARNING*.
+Este proyecto fue realizado por Juan Carlos Peralta Olivera como proyecto final de la materia de ***MACHINE LEARNING*** correspondiente a la **Maestría en Ciencia de Datos versión 3**.
 
 ## **Licencia**
 Este proyecto se encuentra bajo la licencia MIT.
