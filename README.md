@@ -9,9 +9,13 @@ En este proyecto se utiliza aprendizaje automático (ML) y procesamiento del len
 * Rouge
 ## **Instalación de librerías**
 Se pueden instalar las librerías necesarias ejecutando el siguiente código:
+
 !pip install -q tensorflow
+
 !pip install -q nltk
+
 !pip install -q sentencepiece
+
 !pip install -q rouge
 
 ## **Dataset**
