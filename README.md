@@ -44,7 +44,7 @@ Datasets:
 * BBC News https://www.kaggle.com/datasets/hgultekin/bbcnewsarchive https://www.kaggle.com/datasets/pariza/bbc-news-summary 
 * English News https://www.kaggle.com/datasets/qusaybtoush1990/english-news
 
-Se agradece a los autores del conjunto de datos y a la plataforma Kaggle por poner a disposición estos recursos para la comunidad.
+Se agradece a los autores de ambos datasets y a la plataforma Kaggle por poner a disposición estos recursos para la comunidad.
 
 ## **Autor**
 Este proyecto fue realizado por Juan Carlos Peralta Olivera como proyecto final de la materia de *MACHINE LEARNING*.
